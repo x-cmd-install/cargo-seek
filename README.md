@@ -12,6 +12,16 @@ A terminal user interface for searching, adding and installing cargo crates.
 x install cargo-seek
 ```
 
+## Code insight
+
+Total: **6,748** lines of code across **46** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 6,676 | 171 | 855 | 42 |
+| Toml | 72 | 1 | 3 | 2 |
+| Markdown | 0 | 159 | 53 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/tareqimbasher/cargo-seek>
@@ -23,17 +33,6 @@ x install cargo-seek
 - **Latest**: `v0.2.0` (2026-07-08)
 - **Last commit**: 2026-07-08
 - **Assets in release**: 6
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [cargo-seek-v0.2.0-linux-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-linux-arm64.tar.gz) | 2.4 MiB | `native/linux/arm64` |
-| [cargo-seek-v0.2.0-linux-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-linux-x86_64.tar.gz) | 2.6 MiB | `native/linux/x64` |
-| [cargo-seek-v0.2.0-macos-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-macos-arm64.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
-| [cargo-seek-v0.2.0-macos-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-macos-x86_64.tar.gz) | 2.3 MiB | `native/darwin/x64` |
-| [cargo-seek-v0.2.0-windows-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-windows-arm64.tar.gz) | 2.0 MiB | `native/win/arm64` |
-| [cargo-seek-v0.2.0-windows-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-windows-x86_64.tar.gz) | 2.1 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -48,18 +47,31 @@ x install cargo-seek
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 4 | 0 |
 | 90d | 2026-06-12 | 1 | 0 | 1 | 0 | 4 | 31 |
+| last180d | 2026-03-14 | 1 | 0 | 1 | 0 | 4 | 31 |
 | 360d | 2025-09-15 | 1 | 0 | 1 | 0 | 4 | 36 |
+| last720d | 2024-09-20 | 2 | 2 | 1 | 4 | 5 | 104 |
 
-## Code size
+## Release assets
 
-Total: **6,748** lines of code across **46** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [cargo-seek-v0.2.0-linux-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-linux-arm64.tar.gz) | 2.4 MiB | `native/linux/arm64` |
+| [cargo-seek-v0.2.0-linux-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-linux-x86_64.tar.gz) | 2.6 MiB | `native/linux/x64` |
+| [cargo-seek-v0.2.0-macos-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-macos-arm64.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
+| [cargo-seek-v0.2.0-macos-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-macos-x86_64.tar.gz) | 2.3 MiB | `native/darwin/x64` |
+| [cargo-seek-v0.2.0-windows-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-windows-arm64.tar.gz) | 2.0 MiB | `native/win/arm64` |
+| [cargo-seek-v0.2.0-windows-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-windows-x86_64.tar.gz) | 2.1 MiB | `native/win/x64` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 6,676 | 171 | 855 | 42 |
-| Toml | 72 | 1 | 3 | 2 |
-| Markdown | 0 | 159 | 53 | 2 |
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/cargo-seek). **5** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.2.0` | ✅ latest |
+| Alpine edge | `0.2.0` | ✅ latest |
 
 ## Improve this data
 
@@ -70,4 +82,4 @@ Install metadata for cargo-seek lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:19:07Z._

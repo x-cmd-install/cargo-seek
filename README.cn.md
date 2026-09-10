@@ -4,7 +4,7 @@
 
 A terminal user interface for searching, adding and installing cargo crates.
 
-![cargo-seek](https://repo.x-cmd.io/cargo-seek.svg)
+![cargo-seek](https://repo.x-cmd.io/cargo-seek.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,17 @@ x install cargo-seek
 - **最新版本**: `v0.2.0` (2026-07-08)
 - **最近提交**: 2026-07-08
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-07-08T23:13:03Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [cargo-seek-v0.2.0-linux-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-linux-arm64.tar.gz) | 2.4 MiB | `native/linux/arm64` |
+| [cargo-seek-v0.2.0-linux-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-linux-x86_64.tar.gz) | 2.6 MiB | `native/linux/x64` |
+| [cargo-seek-v0.2.0-macos-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-macos-arm64.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
+| [cargo-seek-v0.2.0-macos-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-macos-x86_64.tar.gz) | 2.3 MiB | `native/darwin/x64` |
+| [cargo-seek-v0.2.0-windows-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-windows-arm64.tar.gz) | 2.0 MiB | `native/win/arm64` |
+| [cargo-seek-v0.2.0-windows-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-windows-x86_64.tar.gz) | 2.1 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -60,4 +70,4 @@ cargo-seek 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:45:58Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:56:19Z._

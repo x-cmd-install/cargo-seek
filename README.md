@@ -23,7 +23,17 @@ x install cargo-seek
 - **Latest**: `v0.2.0` (2026-07-08)
 - **Last commit**: 2026-07-08
 - **Assets in release**: 6
-- **Published**: 2026-07-08T23:13:03Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [cargo-seek-v0.2.0-linux-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-linux-arm64.tar.gz) | 2.4 MiB | `native/linux/arm64` |
+| [cargo-seek-v0.2.0-linux-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-linux-x86_64.tar.gz) | 2.6 MiB | `native/linux/x64` |
+| [cargo-seek-v0.2.0-macos-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-macos-arm64.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
+| [cargo-seek-v0.2.0-macos-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-macos-x86_64.tar.gz) | 2.3 MiB | `native/darwin/x64` |
+| [cargo-seek-v0.2.0-windows-arm64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-windows-arm64.tar.gz) | 2.0 MiB | `native/win/arm64` |
+| [cargo-seek-v0.2.0-windows-x86_64.tar.gz](https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-windows-x86_64.tar.gz) | 2.1 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -56,8 +66,8 @@ Total: **6,748** lines of code across **46** files in the top 5 languages.
 Install metadata for cargo-seek lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cargo-seek` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cargo-seek.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/cargo-seek.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:45:58Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:18Z._

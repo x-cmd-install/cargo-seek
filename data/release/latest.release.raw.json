@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2682996,
       "digest": "sha256:6a64951c47f391ddfc576cbafe8e7db14b3df6d922461f8f00ee709d0599a9a6",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-07-08T23:08:25Z",
       "updated_at": "2026-07-08T23:08:26Z",
       "browser_download_url": "https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-linux-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2240711,
       "digest": "sha256:ddba8b69ababbe87d07b94403f351df4ad19311e99aa35dcbf883f5343cc94b2",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-07-08T23:08:25Z",
       "updated_at": "2026-07-08T23:08:26Z",
       "browser_download_url": "https://github.com/tareqimbasher/cargo-seek/releases/download/v0.2.0/cargo-seek-v0.2.0-macos-arm64.tar.gz"

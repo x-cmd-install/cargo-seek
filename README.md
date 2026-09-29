@@ -36,7 +36,7 @@ Total: **6,748** lines of code across **46** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 201 · **Forks**: 3 · **Open issues**: 9 · **Contributors**: 2
+- **Stars**: 202 · **Forks**: 3 · **Open issues**: 9 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **6,748** lines of code across **46** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 3 | 0 | 4 | 0 |
-| 90d | 2026-06-30 | 1 | 0 | 3 | 0 | 4 | 6 |
-| last180d | 2026-04-01 | 1 | 0 | 3 | 0 | 4 | 31 |
-| 360d | 2025-10-03 | 1 | 0 | 3 | 0 | 4 | 36 |
-| last720d | 2024-10-08 | 2 | 2 | 3 | 4 | 5 | 92 |
+| 30d | 2026-08-30 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 3 | 0 | 4 | 0 |
+| 90d | 2026-07-01 | 1 | 0 | 3 | 0 | 4 | 6 |
+| last180d | 2026-04-02 | 1 | 0 | 3 | 0 | 4 | 31 |
+| 360d | 2025-10-04 | 1 | 0 | 3 | 0 | 4 | 36 |
+| last720d | 2024-10-09 | 2 | 2 | 3 | 4 | 5 | 92 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for cargo-seek lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T04:25:45Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T04:55:35Z._
